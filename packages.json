@@ -1,8 +1,15 @@
 [
   {
     "package": "pixture",
-    "maintainer": "Roy Francis <zydoosu@gmailcom>",
+    "maintainer": "Roy Francis <roy.m.francis@outlook.com>",
     "url": "https://github.com/royfrancis/pixture",
+    "branch": "main",
+    "available": true
+  },
+  {
+    "package": "plummy",
+    "maintainer": "Roy Francis <roy.m.francis@outlook.com>",
+    "url": "https://github.com/royfrancis/plummy",
     "branch": "main",
     "available": true
   }
