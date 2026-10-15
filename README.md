@@ -4,4 +4,4 @@ R Universe definition used on [https://royfrancis.r-universe.dev](https://royfra
 
 ---
 
-2025 • Roy Francis
+2026 • Roy Francis
