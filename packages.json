@@ -12,5 +12,12 @@
     "url": "https://github.com/royfrancis/plummy",
     "branch": "main",
     "available": true
+  },
+  {
+    "package": "ggtargets",
+    "maintainer": "Roy Francis <roy.m.francis@outlook.com>",
+    "url": "https://github.com/royfrancis/ggtargets",
+    "branch": "main",
+    "available": true
   }
 ]
